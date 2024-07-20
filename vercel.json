@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://altanbagana.goweb.mn/$1"
+ }
+  ]
+}
